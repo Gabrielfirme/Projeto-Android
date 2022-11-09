@@ -108,7 +108,7 @@ img.pequena {
     margin: auto;
 }
 main h1 {
-    font-family: var(--fonte3);
+    font-family: var(--fonte2);
     font-weight: normal;
     color: var(--cor5);
     font-size: 1.8em;
